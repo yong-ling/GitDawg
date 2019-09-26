@@ -21,7 +21,6 @@
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		6B5500EE233C99E900847C44 /* GitDawgSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 6B5500EC233C99E800847C44 /* GitDawgSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6B5500F1233C99E900847C44 /* GitDawgSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B5500EA233C99E800847C44 /* GitDawgSDK.framework */; };
 		6B5500F2233C99E900847C44 /* GitDawgSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6B5500EA233C99E800847C44 /* GitDawgSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		6B5500F8233C9A7800847C44 /* libGitDawg.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B5500F7233C9A7800847C44 /* libGitDawg.a */; };
 		6B5500FA233C9A8700847C44 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B5500F9233C9A8700847C44 /* libReact.a */; };
@@ -118,7 +117,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6B5500F1233C99E900847C44 /* GitDawgSDK.framework in Frameworks */,
 				6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */,
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
