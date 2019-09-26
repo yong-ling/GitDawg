@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/orta/GitDawg'
   s.license          = { type: 'MIT', file: 'LICENSE' }
   s.author           = { 'orta' => 'orta.therox@gmail.com' }
-  s.source           = { git: 'https://github.com/orta/GitDawg.git', tag: s.version.to_s }
+  s.source           = { git: 'https://github.com/yong-ling/GitDawg.git', tag: s.version.to_s }
 
   s.platform       = :ios, '9.0'
 
